@@ -1,0 +1,7 @@
+# This file specifies files that are *not* uploaded to Google Cloud Platform
+# to avoid unnecessary uploads.
+
+node_modules/
+npm-debug.log
+.DS_Store
+
