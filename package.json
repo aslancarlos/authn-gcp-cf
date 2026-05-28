@@ -6,7 +6,7 @@
     "start": "functions-framework --target=helloHttp"
   },
   "dependencies": {
-    "@google-cloud/functions-framework": "^2.0.0",
+    "@google-cloud/functions-framework": "^5.0.2",
     "axios": "^1.4.0",
     "jsonwebtoken": "^9.0.3"
   }
